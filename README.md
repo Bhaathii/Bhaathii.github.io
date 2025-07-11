@@ -59,7 +59,7 @@ git clone https://github.com/Bhaathii/portfolio.git
 
 📧 **Email**: [nwnbhathiya@gmail.com](mailto:nwnbhathiya@gmail.com)  
 📞 **Phone/WhatsApp**: [+94 78 319 4309](https://wa.me/94783194309)  
-💼 **LinkedIn**: [Nuwan Bhathiya](www.linkedin.com/in/nuwan-bhathiya-16868b26a)  
+💼 **LinkedIn**: [Nuwan Bhathiya](https://www.linkedin.com/in/nuwan-bhathiya-16868b26a/)  
 🐱 **GitHub**: [Bhaathii](https://github.com/Bhaathii)  
 🌐 **Portfolio**: [[Live Site](https://nuwanbhathiya.great-site.net/?i=1)]
 
