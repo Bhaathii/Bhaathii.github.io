@@ -3,7 +3,7 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and certifications as an IT undergraduate specializing in full-stack development, cloud computing, and AI solutions.
 
-![Portfolio Preview](img/mainss.png)
+![Portfolio Preview](img/mainsss.png)
 
 ## 🚀 Features
 
